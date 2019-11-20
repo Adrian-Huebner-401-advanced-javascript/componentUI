@@ -6,6 +6,7 @@ data
 .env 
 *.env
 aws.yml
+/build
 
 ### Vim ###
 # swap
