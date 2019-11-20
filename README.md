@@ -6,7 +6,7 @@
 
 * [AWS Site](http://lab27reacttesting.s3-website-us-west-2.amazonaws.com/#)
 * [Netlify Site](https://condescending-clarke-97efc5.netlify.com/)
-* [AWS Amplify](https://master.d16o8maw3iudcd.amplifyapp.com/index.html)
+* [AWS Amplify](https://master.d3fxnyigoiez1u.amplifyapp.com/)
 
 ## Tests
 
